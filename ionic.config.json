@@ -1,0 +1,7 @@
+{
+  "name": "file-uploadfb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
