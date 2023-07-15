@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "file-transfer-firebase-46170"
+  },
+  "targets": {
+    "file-transfer-firebase-46170": {
+      "hosting": {
+        "app": [
+          "file-transfer-firebase-46170"
+        ]
+      }
+    }
+  }
+}
